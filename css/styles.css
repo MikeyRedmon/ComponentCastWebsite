@@ -11,13 +11,15 @@
 .heading {
     font-family: pr-viking, Franklin Gothic Medium, Arial Narrow, sans-serif;
     font-weight: bold;
+    list-style-type: none;
     }
 
 #navlist {
     font-family: BebasNeue-Regular, Arial, Helvetica, sans-serif;
+    text-align: right;
 }
 
-#Elendor #Zweihander #Archive {
+#shows {
     text-align: center;
     display: inline-block;
 }
