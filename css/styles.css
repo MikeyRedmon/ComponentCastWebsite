@@ -9,6 +9,11 @@
 }
 
 .heading {
-    font-family: 'pr-viking', 'Franklin Gothic Medium', 'Arial Narrow', sans-serif;
+    font-family: pr-viking, Franklin Gothic Medium, Arial Narrow, sans-serif;
     font-weight: bold;
     }
+
+#navlist {
+    font-family: BebasNeue-Regular, Arial, Helvetica, sans-serif;
+}
+
