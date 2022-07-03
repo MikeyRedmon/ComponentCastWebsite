@@ -1,9 +1,14 @@
 @font-face {
-    font-family: PR-Viking;
-    src: url(PR\ Viking.ttf);
+    font-family: pr-viking;
+    src: url(pr-viking.ttf);
 }
 
 @font-face {
     font-family: BebasNeue-Regular;
     src: url(BebasNeue-Regular.ttf);
 }
+
+.heading {
+    font-family: 'pr-viking', 'Franklin Gothic Medium', 'Arial Narrow', sans-serif;
+    font-weight: bold;
+    }
