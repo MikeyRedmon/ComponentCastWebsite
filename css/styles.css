@@ -8,10 +8,15 @@
     src: url(BebasNeue-Regular.ttf);
 }
 
+header {
+    margin-bottom: 20px;
+}
+
 .heading {
     font-family: pr-viking, Franklin Gothic Medium, Arial Narrow, sans-serif;
     font-weight: bold;
     list-style-type: none;
+    display: inline;
     }
 
 .subheading {
@@ -23,27 +28,41 @@
     font-family: BebasNeue-Regular, Arial, Helvetica, sans-serif ;
 }
 
+.img {
+    position: relative;
+}
+
 .est {
     font-family: pr-viking, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: lighter;
+    font-size: x-large;
+    position: absolute;
+    right: 20vh;
+    bottom: 35vh;
+    top: auto;
+    outline: 1px black;
 
 }
 
-#homebody {
+#homebody, span {
     
     text-align: center;
-    float: left;
+    display: inline-block;
+    
 
 }
 
 #navlist {
     font-family: BebasNeue-Regular, Arial, Helvetica, sans-serif;
-    text-align: right;
+    text-align: center;
     list-style-type: none;
-    overflow: hidden;
     float: right;
-    
-    
+    display: inline;
+    padding-top: 5px;
+}
+
+li {
+    display: inline-block;
 }
 
 #shows {
