@@ -19,9 +19,31 @@
     font-weight: lighter;
 }
 
+.body {
+    font-family: BebasNeue-Regular, Arial, Helvetica, sans-serif ;
+}
+
+.est {
+    font-family: pr-viking, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+
+}
+
+#homebody {
+    
+    text-align: center;
+    float: left;
+
+}
+
 #navlist {
     font-family: BebasNeue-Regular, Arial, Helvetica, sans-serif;
     text-align: right;
+    list-style-type: none;
+    overflow: hidden;
+    float: right;
+    
+    
 }
 
 #shows {
