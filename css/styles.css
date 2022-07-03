@@ -14,6 +14,11 @@
     list-style-type: none;
     }
 
+.subheading {
+    font-family: pr-viking, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+}
+
 #navlist {
     font-family: BebasNeue-Regular, Arial, Helvetica, sans-serif;
     text-align: right;
