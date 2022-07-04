@@ -29,26 +29,17 @@ header {
 }
 
 .img {
-    position: relative;
+    position: static;
 }
 
 .est {
     font-family: pr-viking, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: lighter;
     font-size: x-large;
-    position: absolute;
-    right: 20vh;
-    bottom: 35vh;
-    top: auto;
+    position:inherit;
+    right: 20%;
+    top: 45%;
     outline: 1px black;
-
-}
-
-#homebody, span {
-    
-    text-align: center;
-    display: inline-block;
-    
 
 }
 
@@ -59,13 +50,26 @@ header {
     float: right;
     display: inline;
     padding-top: 5px;
+    
+}
+
+
+#shows {
+    text-align: center;
+    display: inline-block;
 }
 
 li {
     display: inline-block;
 }
 
-#shows {
+#socials {
+
+    font-family: BebasNeue-Regular, Arial, Helvetica, sans-serif;
     text-align: center;
-    display: inline-block;
+    list-style-type: none;
+    display: inline;
+    padding-top: 5px;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
 }
