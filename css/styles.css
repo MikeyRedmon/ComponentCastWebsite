@@ -54,9 +54,16 @@ li {
 }
 
 
-#shows {
+#show {
    
-    display: inline;
+    text-align: center;
+    display: inline-block;
+    width: 33%;
+    margin-left: 0 auto;
+    margin-right: 0, auto;
+    overflow: none;
+    height: 100%;
+
 }
 
 
@@ -65,12 +72,10 @@ li {
     
     text-align: center;
     display: inline-block;
-    width: 30%;
+    width: 33%;
     margin-left: 0 auto;
     margin-right: 0, auto;
     overflow: none;
-    
-
 
 }
 
