@@ -9,7 +9,7 @@
 }
 
 header {
-    margin-bottom: 20px;
+    padding-bottom: 20px;
 }
 
 .heading {
@@ -53,23 +53,31 @@ header {
     
 }
 
-
-#shows {
-    text-align: center;
+li {
     display: inline-block;
 }
 
-li {
-    display: inline-block;
+
+#shows {
+    text-align: center;
+    display: inline;
+}
+
+
+#mainbody {
+
+    display: inline;
+}
+
+footer {
+    text-align: center;
 }
 
 #socials {
 
     font-family: BebasNeue-Regular, Arial, Helvetica, sans-serif;
-    text-align: center;
     list-style-type: none;
     display: inline;
     padding-top: 5px;
-    margin-left: 0 auto;
-    margin-right: 0 auto;
+    align-content: center;
 }
