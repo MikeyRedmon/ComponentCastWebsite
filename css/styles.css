@@ -34,12 +34,8 @@ header {
 
 .est {
     font-family: pr-viking, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: lighter;
-    font-size: x-large;
-    position:inherit;
-    right: 20%;
-    top: 45%;
-    outline: 1px black;
+    font-size: xx-large;
+    text-align: center;
 
 }
 
@@ -59,14 +55,23 @@ li {
 
 
 #shows {
-    text-align: center;
+   
     display: inline;
 }
 
 
 #mainbody {
 
-    display: inline;
+    
+    text-align: center;
+    display: inline-block;
+    width: 30%;
+    margin-left: 0 auto;
+    margin-right: 0, auto;
+    overflow: none;
+    
+
+
 }
 
 footer {
@@ -79,5 +84,5 @@ footer {
     list-style-type: none;
     display: inline;
     padding-top: 5px;
-    align-content: center;
+   
 }
