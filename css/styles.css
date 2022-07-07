@@ -46,16 +46,31 @@ header {
     float: right;
     display: inline;
     padding-top: 5px;
-    
 }
+
+#navlist > li > a  {
+    color: gray;
+    text-decoration: none;
+}
+
+
+#navlist > li > a:hover {
+
+    color: white;
+
+}
+
 
 li {
     display: inline-block;
+
 }
 
 
+
 #show {
-   
+
+    vertical-align: text-top;
     text-align: center;
     display: inline-block;
     width: 33%;
@@ -69,7 +84,7 @@ li {
 
 #mainbody {
 
-    
+    vertical-align: text-top;
     text-align: center;
     display: inline-block;
     width: 33%;
@@ -91,3 +106,4 @@ footer {
     padding-top: 5px;
    
 }
+
