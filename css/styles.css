@@ -70,7 +70,10 @@ li {
 
 }
 
-
+#logo {
+    float: right;
+    
+}
 
 #show {
 
