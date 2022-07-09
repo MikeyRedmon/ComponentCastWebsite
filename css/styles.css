@@ -60,7 +60,7 @@ header {
 
 #navlist > li > a:hover {
 
-    color: white;
+    color: blue;
 
 }
 
@@ -109,12 +109,12 @@ footer {
 
 footer > ul > li > a {
     text-decoration: none;
-    color: white;
+    color: gray;
 }
 
 footer > ul > li > a:hover {
 
-    color: grey;
+    color: blue;
 }
 
 #socials {
