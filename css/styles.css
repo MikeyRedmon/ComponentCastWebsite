@@ -10,6 +10,7 @@
 
 header {
     padding-bottom: 20px;
+    padding-top: 5px;
 }
 
 .heading {
@@ -17,6 +18,7 @@ header {
     font-weight: bold;
     list-style-type: none;
     display: inline;
+    
     }
 
 .subheading {
@@ -40,12 +42,13 @@ header {
 }
 
 #navlist {
+    font-size:28px;
     font-family: BebasNeue-Regular, Arial, Helvetica, sans-serif;
     text-align: center;
     list-style-type: none;
     float: right;
     display: inline;
-    padding-top: 5px;
+   
 }
 
 #navlist > li > a  {
@@ -96,6 +99,18 @@ li {
 
 footer {
     text-align: center;
+    
+
+}
+
+footer > ul > li > a {
+    text-decoration: none;
+    color: white;
+}
+
+footer > ul > li > a:hover {
+
+    color: grey;
 }
 
 #socials {
@@ -104,6 +119,6 @@ footer {
     list-style-type: none;
     display: inline;
     padding-top: 5px;
-   
+    font-size: 28px;
+    word-spacing: 45px;
 }
-
