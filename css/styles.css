@@ -69,6 +69,23 @@ header {
 #form {
     text-align: center;
     margin-bottom: 20px;
+ 
+}
+
+.timeline {
+    vertical-align: text-top;
+    text-align: center;
+    display: inline-block;
+    width: 32%;
+    margin-left: 3px; 
+    margin-right: 3px;
+    overflow: none;
+    height: 100%;
+}
+
+.button {
+    margin-top: 25px;
+    
 }
 
 li {
