@@ -75,7 +75,7 @@ li {
     
 }
 
-#show {
+.show {
 
     vertical-align: text-top;
     text-align: center;
@@ -87,6 +87,11 @@ li {
     height: 100%;
 
 }
+
+.csoon {
+    text-align: center;
+}
+
 
 
 #mainbody {
