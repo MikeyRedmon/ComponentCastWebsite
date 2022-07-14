@@ -83,6 +83,10 @@ header {
     height: 100%;
 }
 
+.inpad {
+    padding-bottom: 10px;
+}
+
 .button {
     margin-top: 25px;
     
