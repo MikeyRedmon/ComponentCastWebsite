@@ -1,3 +1,5 @@
+
+
 @font-face {
     font-family: pr-viking;
     src: url(pr-viking.ttf);
@@ -64,6 +66,10 @@ header {
 
 }
 
+#form {
+    text-align: center;
+    margin-bottom: 20px;
+}
 
 li {
     display: inline-block;
