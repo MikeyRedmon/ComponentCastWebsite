@@ -95,7 +95,7 @@ li {
     text-align: center;
     display: inline-block;
     width: 33%;
-    margin-left: 0 auto;
+    margin-left: 0, auto;
     margin-right: 0, auto;
     overflow: none;
 
@@ -122,7 +122,6 @@ footer > ul > li > a:hover {
     font-family: BebasNeue-Regular, Arial, Helvetica, sans-serif;
     list-style-type: none;
     display: inline;
-    
     font-size: 28px;
     word-spacing: 45px;
 }
