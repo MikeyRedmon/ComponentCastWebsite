@@ -80,9 +80,9 @@ li {
     vertical-align: text-top;
     text-align: center;
     display: inline-block;
-    width: 33%;
-    margin-left: 0 auto; 
-    margin-right: 0, auto;
+    width: 32%;
+    margin-left: 3px; 
+    margin-right: 3px;
     overflow: none;
     height: 100%;
 
@@ -95,8 +95,8 @@ li {
     text-align: center;
     display: inline-block;
     width: 33%;
-    margin-left: 0, auto;
-    margin-right: 0, auto;
+    margin-left: 5px, auto;
+    margin-right: 5px, auto;
     overflow: none;
 
 }
