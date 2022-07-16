@@ -53,20 +53,15 @@ header {
     word-spacing: 25px;
     font-size:28px;
 }
-
 #navlist > li > a  {
     color: gray;
     text-decoration: none;
 }
-
-
 #navlist > li > a:hover {
 
     color: blue;
 
 }
-
-
 li {
     display: inline-block;
 
@@ -167,4 +162,39 @@ footer > ul > li > a {
 footer > ul > li > a:hover {
 
     color: blue;
+}
+
+/* Responsive Element Stylings */
+
+@media only screen and (max-width:900px) {
+
+    .heading {
+        font-size: large;
+    }
+    .est {
+        font-size: large;
+    }
+    .subheading{
+        font-size: medium;
+    }
+
+    #navlist{
+        font-size: medium;
+    }
+    #mainbody{
+        vertical-align: text-top;
+        text-align: center;
+        width: 96%;
+        margin-left: 8px;
+        margin-right: 8px;
+        overflow: none;
+    }
+    #socials {
+        text-align: left;
+        padding-top: 10px;
+        font-size: medium;
+        word-spacing: 24px;
+    }
+
+    
 }
