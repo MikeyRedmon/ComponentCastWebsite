@@ -167,13 +167,13 @@ footer > ul > li > a:hover {
 
 /* Responsive Element Stylings */
 
-@media only screen and (max-width:900px) {
+@media only screen and (max-width:1400px) {
 
     .heading {
-        font-size: large;
+        font-size: medium;
     }
     .est {
-        font-size: large;
+        font-size: medium;
     }
     .subheading{
         font-size: medium;
@@ -181,11 +181,12 @@ footer > ul > li > a:hover {
 
     #navlist{
         font-size: medium;
+        
     }
-    #mainbody{
+    .mainbody{
         vertical-align: text-top;
         text-align: center;
-        width: 96%;
+        width: 100%;
         margin-left: 8px;
         margin-right: 8px;
     }
@@ -207,7 +208,7 @@ footer > ul > li > a:hover {
     }
 }
 
-@media only screen and (max-width:1300px) {
+@media only screen and (max-width:1500px) {
 
     .heading {
         font-size: x-large;
