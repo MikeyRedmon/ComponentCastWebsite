@@ -100,7 +100,7 @@ li {
 
 /* Main Body Styling */
 
-#mainbody {
+.mainbody {
 
     vertical-align: text-top;
     text-align: center;
