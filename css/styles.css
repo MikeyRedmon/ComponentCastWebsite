@@ -126,9 +126,9 @@ li {
     vertical-align: text-top;
     text-align: center;
     display: inline-block;
-    width: 33%;
-    margin-left: 5px, auto;
-    margin-right: 5px, auto;
+    width: 32%;
+    margin-left: 8px;
+    margin-right: 8px;
     overflow: none;
 
 }
