@@ -24,4 +24,14 @@ The footer contains several responsive elements that allow direct links to the C
 
 ### Shows
 
-The Shows section contains embedded youtube players for the trailers of the major currently running and an archive channel
+The Shows section contains embedded youtube players for the trailers of the major currently running and an archive channel, general information about the shows content including the system used, the ESRB/PEGI rating and a short synapsis of the show premise. 
+
+### Coming Soon 
+
+In the Coming Soon Section, there is an embedded tweet to a casting call for the next Component Cast show, allowing any interested parties to directly audition for the shows. This can be updated in the future for any future plans. 
+
+## The Contact Us Page
+
+### Contact Content
+
+On this page there is an embedded twitter feed, along with an embedded instagram post to give another option for direct interaction with the Component Casts Social medias. There is also a form to sign up for a Component Cast newsletter. 
