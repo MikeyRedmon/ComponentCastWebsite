@@ -18,7 +18,7 @@ header {
 }
 
 .heading {
-    font-family: pr-viking, Franklin Gothic Medium, Arial Narrow, sans-serif;
+    font-family: pr-viking, 'Franklin Gothic Medium', 'Arial Narrow', sans-serif;
     font-weight: bold;
     list-style-type: none;
     display: inline;
@@ -85,7 +85,6 @@ li {
     width: 32%;
     margin-left: 3px; 
     margin-right: 3px;
-    overflow: none;
     height: 100%;
 
 }
@@ -109,8 +108,6 @@ li {
     width: 32%;
     margin-left: 8px;
     margin-right: 8px;
-    overflow: none;
-
 }
 
 /* Form Styling */
@@ -147,7 +144,6 @@ li {
     width: 32%;
     margin-left: 3px; 
     margin-right: 3px;
-    overflow: none;
     height: 100%;
 }
 
@@ -192,7 +188,6 @@ footer > ul > li > a:hover {
         width: 96%;
         margin-left: 8px;
         margin-right: 8px;
-        overflow: none;
     }
     #socials {
         text-align: left;
