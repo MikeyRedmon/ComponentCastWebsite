@@ -1,4 +1,4 @@
-
+/* Font Face Imports */
 
 @font-face {
     font-family: pr-viking;
@@ -9,6 +9,8 @@
     font-family: BebasNeue-Regular;
     src: url(BebasNeue-Regular.ttf);
 }
+
+/* Applications of font to content */
 
 header {
     padding-bottom: 20px;
@@ -32,16 +34,14 @@ header {
     font-family: BebasNeue-Regular, Arial, Helvetica, sans-serif ;
 }
 
-.img {
-    position: static;
-}
-
 .est {
     font-family: pr-viking, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: xx-large;
     text-align: center;
 
 }
+
+/* navigation styling */
 
 #navlist {
     
@@ -66,41 +66,21 @@ header {
 
 }
 
-#form {
-    text-align: center;
-    margin-bottom: 20px;
- 
-}
-
-.timeline {
-    vertical-align: text-top;
-    text-align: center;
-    display: inline-block;
-    width: 32%;
-    margin-left: 3px; 
-    margin-right: 3px;
-    overflow: none;
-    height: 100%;
-}
-
-.inpad {
-    padding-bottom: 10px;
-}
-
-.button {
-    margin-top: 25px;
-    
-}
 
 li {
     display: inline-block;
 
 }
 
-#logo {
-    float: right;
+/* Image Element Styling */
+
+.img {
+    position: static;
+    width: 100%;
     
 }
+
+/* Show Page Styling */
 
 .show {
 
@@ -119,7 +99,7 @@ li {
     text-align: center;
 }
 
-
+/* Main Body Styling */
 
 #mainbody {
 
@@ -132,6 +112,46 @@ li {
     overflow: none;
 
 }
+
+/* Form Styling */
+
+#form {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.button {
+    margin-top: 25px;   
+}
+
+.inpad {
+    padding-bottom: 10px;
+}
+
+/* Social elements styling */
+
+#socials {
+
+    font-family: BebasNeue-Regular, Arial, Helvetica, sans-serif;
+    list-style-type: none;
+    display: inline;
+    font-size: 28px;
+    word-spacing: 45px;
+}
+
+
+.timeline {
+    vertical-align: text-top;
+    text-align: center;
+    display: inline-block;
+    width: 32%;
+    margin-left: 3px; 
+    margin-right: 3px;
+    overflow: none;
+    height: 100%;
+}
+
+/* Footer Styling */
 
 footer {
     text-align: center;
@@ -147,13 +167,4 @@ footer > ul > li > a {
 footer > ul > li > a:hover {
 
     color: blue;
-}
-
-#socials {
-
-    font-family: BebasNeue-Regular, Arial, Helvetica, sans-serif;
-    list-style-type: none;
-    display: inline;
-    font-size: 28px;
-    word-spacing: 45px;
 }
