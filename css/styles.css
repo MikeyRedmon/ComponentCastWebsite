@@ -6,8 +6,8 @@
 }
 
 @font-face {
-    font-family: BebasNeue-Regular;
-    src: url(BebasNeue-Regular.ttf);
+    font-family: bebasneue-regular;
+    src: url(bebasneue-regular.ttf);
 }
 
 /* Applications of font to content */
@@ -45,7 +45,7 @@ header {
 
 #navlist {
     
-    font-family: BebasNeue-Regular, Arial, Helvetica, sans-serif;
+    font-family: bebasneue-regular, Arial, Helvetica, sans-serif;
     text-align: center;
     list-style-type: none;
     float: right;
@@ -88,6 +88,11 @@ li {
     overflow: none;
     height: 100%;
 
+}
+
+.video {
+    width: 454px; 
+    height: 315px;
 }
 
 .csoon {
@@ -195,6 +200,11 @@ footer > ul > li > a:hover {
         font-size: medium;
         word-spacing: 24px;
     }
-
-    
+    .show {
+        width: 90%;
+    }
+    .video {
+        width: 90%;
+        align-items: center;
+    }
 }
