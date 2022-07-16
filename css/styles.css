@@ -211,3 +211,38 @@ footer > ul > li > a:hover {
         width: 100%;
     }
 }
+
+@media only screen and (max-width:1300px) {
+
+    .heading {
+        font-size: x-large;
+    }
+    .est {
+        font-size: x-large;
+    }
+    .subheading{
+        font-size: large;
+    }
+
+    #navlist{
+        font-size: large;
+    }
+    
+    .show {
+        width: 90%;
+    }
+    .video {
+        width: 90%;
+       
+    }
+    .timeline {
+        width: 100%;
+    }
+    #socials {
+        font-size: large;
+        text-align: center;
+    }
+    .instagram-media {
+        width: 100%;
+    }
+}
