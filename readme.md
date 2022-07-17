@@ -35,3 +35,7 @@ In the Coming Soon Section, there is an embedded tweet to a casting call for the
 ### Contact Content
 
 On this page there is an embedded twitter feed, along with an embedded instagram post to give another option for direct interaction with the Component Casts Social medias. There is also a form to sign up for a Component Cast newsletter. 
+
+## Features left to implement
+
+I would like to come back and allow the register button to send any information registered to a server. 
