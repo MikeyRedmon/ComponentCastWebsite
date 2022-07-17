@@ -43,21 +43,21 @@ header {
 
 /* navigation styling */
 
-#navlist {
+.navlist {
     
     font-family: bebasneue-regular, Arial, Helvetica, sans-serif;
     text-align: center;
     list-style-type: none;
     float: right;
     display: inline;
-    word-spacing: 25px;
+    padding-right: 35px;
     font-size:28px;
 }
-#navlist > li > a  {
+header > a  {
     color: gray;
     text-decoration: none;
 }
-#navlist > li > a:hover {
+header > a:hover {
 
     color: blue;
 
@@ -179,7 +179,7 @@ footer > ul > li > a:hover {
         font-size: medium;
     }
 
-    #navlist{
+    .navlist{
         font-size: medium;
         
     }
@@ -220,7 +220,7 @@ footer > ul > li > a:hover {
         font-size: large;
     }
 
-    #navlist{
+    .navlist{
         font-size: large;
     }
     
