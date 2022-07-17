@@ -39,3 +39,31 @@ On this page there is an embedded twitter feed, along with an embedded instagram
 ## Features left to implement
 
 I would like to come back and allow the register button to send any information registered to a server. 
+
+## Testing. 
+
+Before I deployed this website, I ran the code though the HTML and CSS validator several times, adjusting as I went in order to make sure my code was up to industry standard. 
+
+The features of the website; That being the Navlist, the video players, the embedded tweet, twitter feed and instagram post all work as intended. As well as the form functioning as intended. 
+
+When developing this website, I discovered that list elements are not considered allowed in the header section of a document, which made me change my navigation layout a bit but It was a simple enough fix. 
+
+The website is responsive and when the width of the viewing portal shrinks the items stack on top of each other, allowing for easier consumption of the content. 
+
+### Validator
+
+Running the HTML through a validator does show a few errors, which I will expand on in the Bugs section. 
+
+Running the CSS through a validator shows no errors. 
+
+### Unfixed Bugs
+
+Due to the code used in the Embedded youtube video players, tweet, tweeter feed and Instagram post, it comes up as an error on the HTML validator. Unfortunately, changing the code changes the view so I have to leave them be. 
+
+## Deployment 
+
+The Site is deployed on Gibhub Pages. 
+
+In the Github Repository navigate to the settings tab, from there the source section drop down menu select the master Branch. Once the master branch is selected it will be automatically refreshed with a detailed ribbon display. 
+
+The Live Link can be found here; [Component Cast Website](https://mikeyredmon.github.io/ComponentCastWebsite/)
