@@ -217,9 +217,13 @@ footer > ul > li > a:hover {
     }
     .show {
         width: 100%;
+        padding-left: 0px;
+        padding-right: 0px;
     }
     .video {
         width: 100%;
+        padding-left: 0px;
+        padding-right: 0px;
         
     }
     .timeline {
@@ -247,11 +251,14 @@ footer > ul > li > a:hover {
     }
     
     .show {
-        width: 90%;
+        width: 100%;
+        padding-left: 0px;
+        padding-right: 0px;
     }
     .video {
-        width: 90%;
-       
+        width: 100%;
+        padding-left: 0px;
+        padding-right: 0px;
     }
     .timeline {
         width: 100%;
