@@ -22,21 +22,24 @@ header {
     font-weight: bold;
     list-style-type: none;
     display: inline;
+    font-size: 48px; 
     
     }
 
 .subheading {
     font-family: pr-viking, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: lighter;
+    font-size: 28px;
 }
 
 .body {
-    font-family: BebasNeue-Regular, Arial, Helvetica, sans-serif ;
+    font-family: bebasneue-regular, Arial, Helvetica, sans-serif;
+    font-size: 20px;
 }
 
 .est {
     font-family: pr-viking, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: xx-large;
+    font-size: 36px;
     text-align: center;
 
 }
@@ -48,10 +51,10 @@ header {
     font-family: bebasneue-regular, Arial, Helvetica, sans-serif;
     text-align: center;
     list-style-type: none;
-   
     display: inline;
     padding-right: 35px;
     font-size:28px;
+    float: right;
 }
 header > a  {
     color: gray;
@@ -117,9 +120,13 @@ li {
     margin-bottom: 20px;
 }
 
+
 .button {
-    margin-top: 25px;   
+    font-family:  BebasNeue-Regular, Arial, Helvetica, sans-serif;
+    padding-top: 25px;
+    text-decoration: none;
 }
+
 
 .inpad {
     padding-bottom: 10px;
@@ -188,6 +195,7 @@ footer > ul > li > a:hover {
         vertical-align: text-top;
         text-align: center;
         width: 100%;
+        padding-left: 0px;
 
     }
     #socials {
@@ -218,6 +226,9 @@ footer > ul > li > a:hover {
     }
     .subheading{
         font-size: large;
+    }
+    .mainbody {
+        padding-left: 0px;
     }
 
     .navlist{
