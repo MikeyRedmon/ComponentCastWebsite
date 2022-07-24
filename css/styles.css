@@ -38,6 +38,7 @@ header {
     font-family: bebasneue-regular, Arial, Helvetica, sans-serif;
     font-size: 20px;
     color: white;
+    padding-left: 0px;
 }
 
 .est {
@@ -215,11 +216,11 @@ footer > ul > li > a:hover {
         word-spacing: 24px;
     }
     .show {
-        width: 90%;
+        width: 100%;
     }
     .video {
-        width: 90%;
-        align-items: center;
+        width: 100%;
+        
     }
     .timeline {
         width: 100%;
