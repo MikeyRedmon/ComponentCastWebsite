@@ -229,6 +229,9 @@ footer > ul > li > a:hover {
     .timeline {
         width: 100%;
     }
+    .button {
+        padding-bottom: 25px;
+    }
 }
 
 @media only screen and (max-width:1500px) {
@@ -269,5 +272,8 @@ footer > ul > li > a:hover {
     }
     .instagram-media {
         width: 100%;
+    }
+    .button {
+        padding-bottom: 25px;
     }
 }
