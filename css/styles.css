@@ -23,6 +23,7 @@ header {
     list-style-type: none;
     display: inline;
     font-size: 48px; 
+    color: white;
     
     }
 
@@ -30,18 +31,27 @@ header {
     font-family: pr-viking, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: lighter;
     font-size: 28px;
+    color: white;
 }
 
 .body {
     font-family: bebasneue-regular, Arial, Helvetica, sans-serif;
     font-size: 20px;
+    color: white;
 }
 
 .est {
     font-family: pr-viking, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 36px;
     text-align: center;
+    color: white;
 
+}
+
+/* page styling */
+
+body {
+    background-color: black;
 }
 
 /* navigation styling */
