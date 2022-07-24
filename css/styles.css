@@ -76,10 +76,6 @@ header > a:hover {
     color: blue;
 
 }
-li {
-    display: inline-block;
-
-}
 
 /* Image Element Styling */
 
@@ -101,6 +97,10 @@ li {
     padding-right: 3px;
     height: 100%;
 
+}
+
+li {
+    list-style-type: none;;
 }
 
 .video {
