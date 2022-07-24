@@ -2,6 +2,8 @@
 
 The Component Cast is a Tabletop Roleplay Broadcast network, that provides a highly entertaining selection of shows. This website is to help broaden the reach of the Component Cast and give new potential fans a place where they can find all of the content that the Component Cast produces in one area, easily finding the particular content form they're looking for. 
 
+The Live Link can be found here; [Component Cast Website](https://mikeyredmon.github.io/ComponentCastWebsite/)
+
 ## Existing Features
 
 ### Naviation Bar
@@ -20,7 +22,7 @@ The Information section contains several boxs of text; Describing the Component 
 
 The footer contains several responsive elements that allow direct links to the Component Cast social media accounts. Including Twitch and Discord for direct messaging interaction with the cast. 
 
-## The Shows Page
+### The Shows Page
 
 ### Shows
 
@@ -30,7 +32,7 @@ The Shows section contains embedded youtube players for the trailers of the majo
 
 In the Coming Soon Section, there is an embedded tweet to a casting call for the next Component Cast show, allowing any interested parties to directly audition for the shows. This can be updated in the future for any future plans. 
 
-## The Contact Us Page
+### The Contact Us Page
 
 ### Contact Content
 
@@ -67,3 +69,13 @@ The Site is deployed on Gibhub Pages.
 In the Github Repository navigate to the settings tab, from there the source section drop down menu select the master Branch. Once the master branch is selected it will be automatically refreshed with a detailed ribbon display. 
 
 The Live Link can be found here; [Component Cast Website](https://mikeyredmon.github.io/ComponentCastWebsite/)
+
+## Credits
+
+### Content 
+
+The PR Viking font was created by Pter Rempel, and the Bebas Neue Font was created by Dharma Type. 
+
+### Media
+
+The Images and icons where produced, created and provided by Alex Dunk. CEO of The Component Cast. 

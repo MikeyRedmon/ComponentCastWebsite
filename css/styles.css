@@ -48,7 +48,7 @@ header {
     font-family: bebasneue-regular, Arial, Helvetica, sans-serif;
     text-align: center;
     list-style-type: none;
-    float: right;
+   
     display: inline;
     padding-right: 35px;
     font-size:28px;
@@ -83,8 +83,8 @@ li {
     text-align: center;
     display: inline-block;
     width: 32%;
-    margin-left: 3px; 
-    margin-right: 3px;
+    padding-left: 3px; 
+    padding-right: 3px;
     height: 100%;
 
 }
@@ -106,8 +106,8 @@ li {
     text-align: center;
     display: inline-block;
     width: 32%;
-    margin-left: 8px;
-    margin-right: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
 }
 
 /* Form Styling */
@@ -181,14 +181,14 @@ footer > ul > li > a:hover {
 
     .navlist{
         font-size: medium;
+        padding-right: 5px;
         
     }
     .mainbody{
         vertical-align: text-top;
         text-align: center;
         width: 100%;
-        margin-left: 8px;
-        margin-right: 8px;
+
     }
     #socials {
         text-align: left;
