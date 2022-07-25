@@ -73,21 +73,30 @@ On this page there is an embedded twitter feed, along with an embedded instagram
 
 ## Features left to implement
 
-I would like to come back and allow the register button to send any information registered to a server. 
+- I would like to come back and allow the register button to send any information registered to a server. 
+- I would like to add an embedded video player to the Shows page of the twitch channel. 
+- I would like to add an auto updating calander to allow users to see when the channel goes live.
 
 ## Testing. 
 
 The features of the website; That being the Navlist, the video players, the embedded tweet, twitter feed and instagram post all work as intended. As well as the form functioning as intended. 
 
-I tested the Navlist items by hovering over them with my mouse; the colour of the elements changed and when I clicked on them it brought me to 
+I tested the Navlist items by hovering over them with my mouse; the colour of the elements changed and when I clicked on them it brought me to the correct page. 
 
-When developing this website, I discovered that list elements are not considered allowed in the header section of a document, which made me change my navigation layout a bit but It was a simple enough fix. 
+The embedded tweet works as intented, appearing on the page and when clicked on it links directly to the tweet in question. 
+
+The video players load when I click on the Shows page, but they do not auto play. 
+
+The tweeter feed updates when the Component Cast twitter account tweets, or retweets something and is working as intended. 
+
+The Instagram post is fully functional, and would allow any potiental user to directly interact with the account. 
 
 The website is responsive and when the width of the viewing portal shrinks the items stack on top of each other, allowing for easier consumption of the content. 
 
 ### Validator
 
 Running the HTML through a validator does show a few errors, which I will expand on in the Bugs section. 
+
 
 Running the CSS through a validator shows no errors. 
 
