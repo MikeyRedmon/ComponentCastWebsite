@@ -35,13 +35,19 @@ Featured on all three pages, the Navigation bar allows for easy and simple navia
 
 The landing page includes a hero image to draw the eye. It also includes a bit of text to show the year that The Component Cast was established. 
 
+![The Component Cast landing page hero image](./assets/images/cc_instagram_blocker_1.png)
+
 #### The Information Section
 
 The Information section contains several boxs of text; Describing the Component cast Mission Briefing, a Promise made to the viewers and a small blurb about the formation of the Component cast itself. 
 
+![The Component Cast Landing Page information Section](./assets/images/info.png)
+
 #### The Footer
 
 The footer contains several responsive elements that allow direct links to the Component Cast social media accounts. Including Twitch and Discord for direct messaging interaction with the cast. 
+
+![The Component Cast Website Footer](./assets/images/footer.png)
 
 ### The Shows Page
 
@@ -49,15 +55,21 @@ The footer contains several responsive elements that allow direct links to the C
 
 The Shows section contains embedded youtube players for the trailers of the major currently running and an archive channel, general information about the shows content including the system used, the ESRB/PEGI rating and a short synapsis of the show premise. 
 
+![The Component Cast Shows section](./assets/images/shows.png)
+
 #### Coming Soon 
 
-In the Coming Soon Section, there is an embedded tweet to a casting call for the next Component Cast show, allowing any interested parties to directly audition for the shows. This can be updated in the future for any future plans. 
+In the Coming Soon Section, there is an embedded tweet to a casting call for the next Component Cast show, allowing any interested parties to directly audition for the shows. This can be updated in the future, allowing for futureproofing of the website design.
+
+![The Coming soon section of the Shows Page](/assets/images/csoon.png)
 
 ### The Contact Us Page
 
 #### Contact Content
 
 On this page there is an embedded twitter feed, along with an embedded instagram post to give another option for direct interaction with the Component Casts Social medias. There is also a form to sign up for a Component Cast newsletter. 
+
+![The Component Cast Contact page](/assets/images/contactus.png)
 
 ## Features left to implement
 
