@@ -105,7 +105,7 @@ Running the CSS through a validator shows no errors.
 
 ### Unfixed Bugs
 
-Due to the code used in the Embedded youtube video players, tweet, tweeter feed and Instagram post, it comes up as an error on the HTML validator. Unfortunately, changing the code changes the view so I have to leave them be. 
+Due to the code used in the Embedded youtube video players, tweet, tweeter feed and Instagram post, it comes up as an error on the HTML validator. Unfortunately, changing the code changes the display so I have to leave them be. 
 
 ## Deployment 
 
