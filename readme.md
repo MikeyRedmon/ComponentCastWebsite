@@ -97,8 +97,11 @@ The website is responsive and when the width of the viewing portal shrinks the i
 
 Running the HTML through a validator does show a few errors, which I will expand on in the Bugs section. 
 
+![The HTML Validator for the Index Page](/assets/images/htmlval.png)
 
 Running the CSS through a validator shows no errors. 
+
+![The CSS Validator the CSS Styling](/assets/images/cssval.png)
 
 ### Unfixed Bugs
 
@@ -108,7 +111,12 @@ Due to the code used in the Embedded youtube video players, tweet, tweeter feed 
 
 The Site is deployed on Gibhub Pages. 
 
-In the Github Repository navigate to the settings tab, from there the source section drop down menu select the master Branch. Once the master branch is selected it will be automatically refreshed with a detailed ribbon display. 
+Here are the steps to deploy this website to GitHub Pages from its GitHub repository; 
+- Log into Github and locate the Github Repository
+- At the top of the Repository, locate the settings button on the menu
+- Scoll down the settings page until you locate the pages section
+- Under Source, Click the dropdown called none and select Master Branch
+- The page will refresh automatically and generate a link to your website.   
 
 The Live Link can be found here; [Component Cast Website](https://mikeyredmon.github.io/ComponentCastWebsite/)
 
