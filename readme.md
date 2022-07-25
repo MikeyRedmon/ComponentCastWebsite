@@ -6,35 +6,35 @@ The Live Link can be found here; [Component Cast Website](https://mikeyredmon.gi
 
 ## Existing Features
 
-### Naviation Bar
+#### Naviation Bar
 
 Featured on all three pages, the Navigation bar allows for easy and simple naviation between the Home, Shows and Contact page. Its identical styling in each page makes it highly intuitive.
 
-### The Home Page
+#### The Home Page
 
 The landing page includes a hero image to draw the eye. It also includes a bit of text to show the year that The Component Cast was established. 
 
-### The Information Section
+#### The Information Section
 
 The Information section contains several boxs of text; Describing the Component cast Mission Briefing, a Promise made to the viewers and a small blurb about the formation of the Component cast itself. 
 
-### The Footer
+#### The Footer
 
 The footer contains several responsive elements that allow direct links to the Component Cast social media accounts. Including Twitch and Discord for direct messaging interaction with the cast. 
 
 ### The Shows Page
 
-### Shows
+#### Shows
 
 The Shows section contains embedded youtube players for the trailers of the major currently running and an archive channel, general information about the shows content including the system used, the ESRB/PEGI rating and a short synapsis of the show premise. 
 
-### Coming Soon 
+#### Coming Soon 
 
 In the Coming Soon Section, there is an embedded tweet to a casting call for the next Component Cast show, allowing any interested parties to directly audition for the shows. This can be updated in the future for any future plans. 
 
 ### The Contact Us Page
 
-### Contact Content
+#### Contact Content
 
 On this page there is an embedded twitter feed, along with an embedded instagram post to give another option for direct interaction with the Component Casts Social medias. There is also a form to sign up for a Component Cast newsletter. 
 
@@ -44,9 +44,9 @@ I would like to come back and allow the register button to send any information 
 
 ## Testing. 
 
-Before I deployed this website, I ran the code though the HTML and CSS validator several times, adjusting as I went in order to make sure my code was up to industry standard. 
-
 The features of the website; That being the Navlist, the video players, the embedded tweet, twitter feed and instagram post all work as intended. As well as the form functioning as intended. 
+
+I tested the Navlist items by hovering over them with my mouse; the colour of the elements changed and when I clicked on them it brought me to 
 
 When developing this website, I discovered that list elements are not considered allowed in the header section of a document, which made me change my navigation layout a bit but It was a simple enough fix. 
 
