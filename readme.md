@@ -124,8 +124,18 @@ The Live Link can be found here; [Component Cast Website](https://mikeyredmon.gi
 
 ### Content 
 
-The PR Viking font was created by Pter Rempel, and the Bebas Neue Font was created by Dharma Type. 
+All content was written by the developer. 
 
 ### Media
 
-The Images and icons where produced, created and provided by Alex Dunk. CEO of The Component Cast. 
+The Images and icons where produced, created and provided by Alex Dunk. CEO of The Component Cast and used with his permission.
+
+The PR Viking font was created by Pter Rempel, and the Bebas Neue Font was created by Dharma Type. 
+
+## Acknowledgements
+
+- My Tutor, Marcel for providing exceptional guidance and valuable constructive criticism.
+
+- My Friends, for their constant source of support and ideas. 
+
+- Code institutes excellent Slack community. 
