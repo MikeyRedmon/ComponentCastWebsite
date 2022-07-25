@@ -1,14 +1,35 @@
 # The Component Cast
 
-The Component Cast is a Tabletop Roleplay Broadcast network, that provides a highly entertaining selection of shows. This website is to help broaden the reach of the Component Cast and give new potential fans a place where they can find all of the content that the Component Cast produces in one area, easily finding the particular content form they're looking for. 
+![An example of the website being responsive.](./assets/images/responsive.png)
+
+The Component Cast is a Tabletop Roleplay Broadcast network, that provides a highly entertaining selection of shows and a place to promote and work on your own projects of homebrew content and writing.
+
+This website is to help broaden the reach of the Component Cast and give new potential fans a place where they can find all of the content that the Component Cast produces in one area, easily finding the particular content form they're looking for. 
 
 The Live Link can be found here; [Component Cast Website](https://mikeyredmon.github.io/ComponentCastWebsite/)
+
+## Project Goals
+
+### Design Objectives
+
+- Intuitive Experiance
+- Clean Design
+- Ease of Cross Promotion (Twitch, Twitter, Instagram.)
+- Provide a solid foundation for future updates and upgrades to website functionality. 
+
+### User Stories 
+
+- As a user, I want to be able to understand what this website is about from the landing page
+- As a user, I want to be able to read more about the things the Component Cast does concisely. 
+- As a user, I want to be able to contact the show directly. 
 
 ## Existing Features
 
 #### Naviation Bar
 
-Featured on all three pages, the Navigation bar allows for easy and simple naviation between the Home, Shows and Contact page. Its identical styling in each page makes it highly intuitive.
+![The Navigation bar of the website](./assets/images/navbar.png)
+
+Featured on all three pages, the Navigation bar allows for easy and simple naviation between the Home, Shows and Contact page. Its identical styling in each page makes it highly intuitive. 
 
 #### The Home Page
 
